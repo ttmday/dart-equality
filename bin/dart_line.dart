@@ -1,4 +1,4 @@
-import 'package:dart_line/object_equality_3.dart';
+import 'package:dart_line/object_equality_2.dart';
 
 void main() {
   const user1 = User(firstName: "Eliezer", lastName: "Capuano", age: 27);
